@@ -12,7 +12,8 @@ body {
   /* 9. Add 15px padding */
   padding: 15px;
   /* 10. Make the background color of the container Carolina Blue using the hex code defined here: https://en.wikipedia.org/wiki/Carolina_blue*/
-  background-color: #99badd;
+  background-color: #4B9CD3;
+  /*chose web safe carolina blue*/
 }
 
 input[type=text],
@@ -35,7 +36,6 @@ input[type=password]:focus {
 #register h1 {
   /* 12. Make the text BOLD */
   font-weight: bold;
-
   /* 13. Make the text color navy (look up the hex code for navy) */
   color: #000080;
 
@@ -46,7 +46,7 @@ hr {
   margin-bottom: 30px;
 
   /* 15. Add a 2-pixel solid azure border (look up the hex code). */
-  border: 2px solid #F0FFFF;
+  border: 2px solid #0080FF;
 
 }
 
@@ -82,7 +82,7 @@ a {
 /* 22. Set style for links using the :hover pseudoclass */
 a:hover {
   /* 23. Change the color of links to azure on mouseover */
-  color: #F0FFFF;
+  color: #0080FF;
 
   /* 24. Set the text-decoration to underline for links on mouseover */
   text-decoration: underline;
@@ -90,7 +90,7 @@ a:hover {
 }
 
 .signin {
-  background-color: #f1f1f1;
+  background-color: #ffffff;
   /* 25. Align the text for the section with class "signin" to be centered */
   text-align: center;
 }
