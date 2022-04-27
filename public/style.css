@@ -46,7 +46,7 @@ hr {
   margin-bottom: 30px;
 
   /* 15. Add a 2-pixel solid azure border (look up the hex code). */
-  border: 2px solid #0080FF;
+  border: 2px solid #008AD8;
 
 }
 
@@ -82,7 +82,7 @@ a {
 /* 22. Set style for links using the :hover pseudoclass */
 a:hover {
   /* 23. Change the color of links to azure on mouseover */
-  color: #0080FF;
+  color: #008AD8;
 
   /* 24. Set the text-decoration to underline for links on mouseover */
   text-decoration: underline;
